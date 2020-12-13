@@ -15,4 +15,5 @@ CREATE TABLE users (
 )
 ```
 
-To customise the alphabet simply modify the variable
+## Todo
+* Function that takes a custom alphabet
