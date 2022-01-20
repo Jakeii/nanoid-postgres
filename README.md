@@ -14,6 +14,3 @@ CREATE TABLE users (
   ...
 )
 ```
-
-## Todo
-* Function that takes a custom alphabet
